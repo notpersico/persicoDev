@@ -1,44 +1,35 @@
 <h1 align="center">Hi 👋, I'm Alessio Persichetti</h1>
 <h3 align="center">A passionate Software Engineer & Technical Lead from Italy</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=persicoDev&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight"
-    alt="GitHub Stats"
-    width="50%"
-    style="display: inline-block; margin-top: -3%;"
-  />
-</p>
+
 
 ---
 
 ## 🔭 Currently Working On
 
 - **AI-Powered LegalTech Solutions:**
-  Developing and leading the creation of advanced AI systems, including autonomous-agent SaaS platforms, to revolutionize legal document processing and analysis. This involves leveraging multi-agent systems (pre-GPT-4) and modern AI techniques to automate tasks, reduce manual effort by up to 80%, and significantly decrease resolution times. [cite: 9, 14]
-
+  Developing and leading the creation of advanced AI systems, including autonomous-agent SaaS platforms, to revolutionize legal document processing and analysis. This involves leveraging multi-agent systems (pre-GPT-4) and modern AI techniques to automate tasks, reduce manual effort by up to 80%, and significantly decrease resolution times. 
 - **High-Performance Data Intensive Applications:**
-  Engineering and re-engineering scalable data-ingestion ETL pipelines and enterprise data lakes. Recently migrated a key pipeline from Python to Go, achieving a 5x increase in throughput and a 78% reduction in processing runtime. [cite: 7, 8, 15] Focused on optimizing code architecture, implementing lighter containers, and enhancing parallelism to decrease compute spend by ~35%. [cite: 8]
-
+  Engineering and re-engineering scalable data-ingestion ETL pipelines and enterprise data lakes. Recently migrated a key pipeline from Python to Go, achieving a 5x increase in throughput and a 78% reduction in processing runtime. [cite: 7, 8, 15] Focused on optimizing code architecture, implementing lighter containers, and enhancing parallelism to decrease compute spend by ~35%. 
 - **Building My Own Company:**
-  Establishing a tech startup focused on delivering innovative solutions in AI and data processing. The goal is to disrupt the industry with cutting-edge technology and provide valuable services to clients worldwide.
+  Establishing a tech startup focused on delivering innovative solutions in AI and data processing. The goal is to disrupt the industry with cutting-edge technology and provide valuable services to clients worldwide and businesses.
 
 ## 🌱 Currently Learning / Working With
 
 - **Managing Kubernetes (AK8s) Clusters:**
-  Utilizing and managing Kubernetes clusters for seamless deployment, scaling, and maintenance of containerized applications, including experience with Azure AKS. [cite: 6, 14] This involves automating workflows and optimizing resource utilization.
+  Utilizing and managing Kubernetes clusters for seamless deployment, scaling, and maintenance of containerized applications, including experience with Azure AKS. This involves automating workflows and optimizing resource utilization.
 
 - **Exploring Rust:**
   Deepening knowledge in the Rust programming language to enhance system-level programming skills, focusing on its safety and performance benefits for high-performance applications.
 
 - **Advanced AI Development:**
-  Working with LangChain and contributing to Microsoft AutoGen (focusing on tool-plugin architecture and evaluation harnesses) to develop sophisticated AI models and applications. [cite: 1, 6] This includes integrating natural language processing and automated generation capabilities.
+  Working with LangChain and contributing to Microsoft AutoGen (focusing on tool-plugin architecture and evaluation harnesses) to develop sophisticated AI models and applications. This includes integrating natural language processing and automated generation capabilities.
 
 - **DevOps Practices:**
-  Expanding expertise in DevOps practices (including Docker, GitHub Actions, Terraform) to streamline development workflows, automate CI/CD pipelines, implement infrastructure as code, and improve collaboration. [cite: 6, 10]
+  Expanding expertise in DevOps practices (including Docker, GitHub Actions, Terraform) to streamline development workflows, automate CI/CD pipelines, implement infrastructure as code, and improve collaboration. 
 
 - **Project Management Professional (PMP) Certification:**
-  Currently preparing for the PMI PMP certification to further enhance project management capabilities. [cite: 1]
+  Currently preparing for the PMI PMP certification to further enhance project management capabilities. 
 
 ## 🛠️ Languages and Tools
 
@@ -187,7 +178,7 @@
 ### [Legal Assist (AI-Powered SaaS Platform)](https://legalassistance.h.com.pl/)
 **Description:** An AI-powered SaaS platform that automates legal document analysis and generation using a multi-agent architecture. Designed to reduce paralegal drafting time significantly (by 60% in its initial application). [cite: 14]
 
-**Technologies Used:** React, NestJS, Go, Azure OpenAI, Microsoft AutoGen, Kubernetes. [cite: 14]
+**Technologies Used:** React, NestJS, Go, Azure OpenAI, Microsoft AutoGen, Kubernetes. 
 
 [![Project Link](https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://legalassistance.h.com.pl/)
 
@@ -196,14 +187,14 @@
 ### [Enterprise Data Lake & ETL Pipeline](https://e23retail.com)
 **Description:** Built a scalable ETL pipeline from scratch with high-throughput message processing to unify disparate data sources into a single queryable platform. Achieved a 5x performance improvement over the previous solution. [cite: 15] As Technical Lead, re-engineered the data-ingestion pipeline (Python to Go) for E23 Retail, resulting in a 5x throughput increase and 78% runtime reduction. [cite: 7]
 
-**Technologies Used:** Go, NATS, PostgreSQL, Kubernetes, Python, Docker, AWS. [cite: 7, 15]
+**Technologies Used:** Go, NATS, PostgreSQL, Kubernetes, Python, Docker, AWS. 
 
 [![Project Link](https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://e23retail.com)
 
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [alessiopersichettidev@gmail.com](mailto:alessiopersichettidev@gmail.com) [cite: 1]
+- **Email:** [alessiopersichettidev@gmail.com](mailto:alessiopersichettidev@gmail.com)
 - **LinkedIn:** [Alessio Persichetti](https://www.linkedin.com/in/alessio-persichetti-5880671ba/)
 - **Twitter:** [@persicoDev](https://x.com/notpersico)
 
