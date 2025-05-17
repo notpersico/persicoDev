@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessio Persichetti</h1>
 <h3 align="center">A passionate Software Engineer & Technical Lead from Italy</h3>
 
-
-
 ---
 
 ## 🔭 Currently Working On
@@ -176,7 +174,7 @@
 ## 📂 Featured Projects
 
 ### [Legal Assist (AI-Powered SaaS Platform)](https://legalassistance.h.com.pl/)
-**Description:** An AI-powered SaaS platform that automates legal document analysis and generation using a multi-agent architecture. Designed to reduce paralegal drafting time significantly (by 60% in its initial application). [cite: 14]
+**Description:** An AI-powered SaaS platform that automates legal document analysis and generation using a multi-agent architecture. Designed to reduce paralegal drafting time significantly (by 60% in its initial application). 
 
 **Technologies Used:** React, NestJS, Go, Azure OpenAI, Microsoft AutoGen, Kubernetes. 
 
@@ -185,8 +183,7 @@
 ---
 
 ### [Enterprise Data Lake & ETL Pipeline](https://e23retail.com)
-**Description:** Built a scalable ETL pipeline from scratch with high-throughput message processing to unify disparate data sources into a single queryable platform. Achieved a 5x performance improvement over the previous solution. [cite: 15] As Technical Lead, re-engineered the data-ingestion pipeline (Python to Go) for E23 Retail, resulting in a 5x throughput increase and 78% runtime reduction. [cite: 7]
-
+**Description:** Built a scalable ETL pipeline from scratch with high-throughput message processing to unify disparate data sources into a single queryable platform. Achieved a 5x performance improvement over the previous solution. As Technical Lead, re-engineered the data-ingestion pipeline (Python to Go) for E23 Retail, resulting in a 5x throughput increase and 78% runtime reduction. 
 **Technologies Used:** Go, NATS, PostgreSQL, Kubernetes, Python, Docker, AWS. 
 
 [![Project Link](https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://e23retail.com)
@@ -216,15 +213,15 @@
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PMP%20(In%20Preparation%20Target%20July%202025)-2196F3?style=for-the-badge&logo=pmi&logoColor=white" alt="PMP (In Preparation)" /> [cite: 1]
+  <img src="https://img.shields.io/badge/PMP%20(In%20Preparation%20Target%20July%202025)-2196F3?style=for-the-badge&logo=pmi&logoColor=white" alt="PMP (In Preparation)" /> 
 </p>
 
 ---
 
 ## 🎯 Goals
 
-- **Short-Term:** Successfully obtain PMP certification[cite: 1], and continue to deepen expertise in Rust and advanced AI development, particularly with multi-agent systems.
-- **Long-Term:** Successfully launch my own tech company focused on innovative AI and data solutions, and continue contributing to impactful open-source projects like Microsoft AutoGen. [cite: 1]
+- **Short-Term:** Successfully obtain PMP certification, and continue to deepen expertise in Rust and advanced AI development, particularly with multi-agent systems.
+- **Long-Term:** Successfully launch my own tech company focused on innovative AI and data solutions, and continue contributing to impactful open-source projects like Microsoft AutoGen. 
 
 ---
 
